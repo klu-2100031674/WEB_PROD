@@ -131,6 +131,7 @@ public class RestController {
 	    } else {
 	        mv.setViewName("home");
 	    }
+		System.out.println("home",mv);
 
 	    return mv;
 	}
