@@ -54,7 +54,7 @@ import com.fashion.controller.*;
 import java.util.*;
 
 
-@Controller
+@RestController
 public class RestController {
 	
   
